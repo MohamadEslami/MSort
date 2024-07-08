@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+MSort/__init__.py
+MSort/bubble_sort.py
+MSort/merge_sort.py
+MSort/quick_sort.py
+MSort.egg-info/PKG-INFO
+MSort.egg-info/SOURCES.txt
+MSort.egg-info/dependency_links.txt
+MSort.egg-info/top_level.txt
+tests/__init__.py
+tests/test_sorts.py
